@@ -6,7 +6,6 @@ y luego iniciar el proceso de descarga.
 La app corre solo de manera local por lo tanto es necesario tener Python y pip instalado en el sistema. 
 
 Una vez corroborado esto, clonar el repositorio e instalar las dependencias especificadas en requirements.txt 
-(Se puede encontrar en el mismo repositorio)
 
 Se recomienda instalar estas dependencias en un entorno virtual para que no generen conflictos con otras ya instaladas.
 
