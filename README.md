@@ -10,9 +10,7 @@ Una vez corroborado esto, clonar el repositorio e instalar las dependencias espe
 
 Se recomienda instalar estas dependencias en un entorno virtual para que no generen conflictos con otras ya instaladas.
 
-Una vez compoletado todos los pasos usar 
-
-streamlit run "NombreDelArchivo.py"
+Una vez completado todos los pasos usar:  streamlit run "NombreDelArchivo.py"
 
 Para iniciar el archivo con el navegador predeterminado.
 
